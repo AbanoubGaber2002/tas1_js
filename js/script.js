@@ -6,7 +6,7 @@ var btn=document.querySelector("#btn1")
 var allproducts1=document.querySelectorAll(".container-md .row .item1 .card-body .btn")
 var alert1=document.querySelector(".alert")
 var d2=document.querySelector(".d2")
-var x=0
+var x=1
 var totalprice=0
 var modalBody = document.querySelector(".modal-body")
 allproducts1.forEach(function(item){
